@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J0n-H4rr150n
 - 👀 I’m interested in ... Web Application Security
-- 🌱 I’m currently learning ... Golang
+- 🌱 I’m currently learning ... Anything I find interesting
 - 💞️ I’m looking to collaborate on ... Bug Bounty Hunting
 - 📫 How to reach me ... OSINT
 - 😄 Pronouns: ... N/A
