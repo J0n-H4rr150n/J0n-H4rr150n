@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Anything I find interesting
 - 💞️ I’m looking to collaborate on ... Bug Bounty Hunting
 - 📫 How to reach me ... OSINT
-- 😄 Pronouns: ... N/A
+- 😄 Favorite programming buddy: ... Gemini
 - ⚡ Fun fact: ... The Pibble Nibble is the ultimate sign of acceptance and affection by pit bulls (pibbles).
 
 <!---
