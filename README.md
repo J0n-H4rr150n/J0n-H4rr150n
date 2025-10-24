@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Jon Harrison (@J0n-H4rr150n)
 
-🎯 **Creator of Bug Hunter Quest** - An open-source gamified bug bounty learning platform
-
 ## 🚀 What I'm Building
 
-### 🛡️ [Bug Hunter Quest](https://github.com/J0n-H4rr150n/bug-hunter-quest)
+### 🛡️ Bug Hunter Platform
 Transforming cybersecurity education through gamification and local AI
 - **Local-first AI stack** with privacy-focused design
 - **Multi-service architecture** (9 microservices)
